@@ -11,7 +11,7 @@ Before running anything, you must install the project dependencies:
 
 ```
 opencv-python==4.5.1.48
-numpy
+numpy==1.19.5
 dlib==19.21.1
 imutils==0.5.4
 ```
