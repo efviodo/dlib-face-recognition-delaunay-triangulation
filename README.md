@@ -16,14 +16,14 @@ dlib==19.21.1
 imutils==0.5.4
 ```
 
-You can run pip install to install all the dependencies at once or install it one by one. This process may take a few minutes.
+You can run ```pip install``` to install all the dependencies at once or install it one by one. This process may take a few minutes.
 
 ```bash
 pip install -r requirements.txt
 ```
 ### Usage
 
-The project has two main modules: `` face_recognition.py``` where you will find everything related to 
+The project has two main modules: ```face_recognition.py``` where you will find everything related to 
 face detection and landmark recognition, and ```delaunay.py``` where you will find the main script, 
 delaunay triangulation, etc.
 
