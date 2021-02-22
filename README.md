@@ -6,6 +6,8 @@ and using two techniques known as: delaunay triangulation and voronoi diagrams.
 
 ![img](results.png)
 
+See [article on Medium](https://medium.com/idatha-enterprise-experience-academic-s/detecci%C3%B3n-de-caras-y-triangulaci%C3%B3n-de-delaunay-con-dlib-y-opencv-3d039374bec9) for a more detailed explanation.
+
 ### Requirements
 Before running anything, you must install the project dependencies: 
 
